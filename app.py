@@ -14,9 +14,12 @@ def main():
     st.write("Upload an image of a handwritten form to extract the text.")
 
     sample_images = [
-        "image1.png",
-        "image2.png",
-        "image3.png"
+        "handwrittenImages
+/image1.png",
+        "handwrittenImages
+/image2.png",
+        "handwrittenImages
+/image1.png"
     ]
 
     uploaded_file = st.file_uploader("Upload Image", type=['jpg', 'jpeg', 'png'])
